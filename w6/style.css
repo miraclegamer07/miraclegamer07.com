@@ -1,0 +1,194 @@
+.div1 input{
+    margin-left: 200px;
+}
+.div2 {
+background-image: url(12312.jpg);
+width: 1000px;
+height: 400px;
+margin-left: 200px;
+margin-top: 20px;
+}
+.div2 h1{
+    color: aliceblue;
+    font-family: elephant;
+    text-align: center;
+}
+.div2 h6{
+margin-left: 386px;
+    color: aliceblue;
+    margin-top: -20px;
+}
+.div2 button{
+    background: transparent;
+    border-color: yellow;
+    color: yellow;
+    margin-left: 386px;
+    margin-top: -20px;
+}
+.div3{
+    background-color: rgb(88, 109, 51);
+    width: 1000px;
+    height: 500px;
+   margin-left: 200px;
+   margin-top: -22px;
+ 
+}
+.div3 h1{
+    text-align: center;
+    color: aliceblue;
+}
+.div3 p{
+    text-align: center;
+    color: aliceblue;
+}
+.div3 h2{
+    color: rgba(0, 0, 0, 0.333);
+    font-size: 160px;
+    margin-left: 80px;
+    margin-top: 40px;
+}
+.div4 {
+    margin-top: -240px;
+    margin-right: 600px;
+}
+
+.div5 h2{
+    color: rgba(0, 0, 0, 0.333);
+    font-size: 160px;
+    margin-left: 650px;
+    display: flex; flex-direction: row;
+    margin-top: -380px;
+}
+.div6 {
+    margin-top: -240px;
+ margin-left: 580px;
+    color: aliceblue;
+}
+.div7 h2{
+    color: rgba(0, 0, 0, 0.333);
+    font-size: 160px;
+    margin-left: 930px;
+    display: flex; flex-direction: row;
+    margin-top: -150px;
+}
+.div8 {
+    margin-top: -240px;
+ margin-left: 880px;
+    color: aliceblue;
+}
+.div7 button{
+    border-color: yellow;
+    color: yellow;
+    background: transparent;
+    margin-left: 670px;
+    margin-top: 90px;
+}
+.div9 h1{
+    margin-left: 430px;
+    margin-top: 160px;
+}
+.div10 {
+    background-color: darkolivegreen;
+    width: 400px;
+    height: 200px;
+    margin-left: 700px;
+    margin-top: -310px;
+    display: flex; flex-direction: row;
+}
+.div10 p{
+    font-size: 20px;
+    color: aliceblue;
+    width: 300px;
+    margin-left: 130px;
+}
+.div9 img{
+    margin-left: 500px;
+    margin-top: 200px;
+    display: flex; flex-direction: row;
+}
+.div11 img{
+    margin-top: 260px;
+    margin-left: -800px;
+}
+.div12 img{
+    margin-top: 300px;
+    margin-left: -400px;
+}
+.div12 h4{
+    margin-top: 100px;
+    margin-left: -300px;
+}
+.div13 {
+    background-color: rgb(33, 49, 64);
+    width: 1000px;
+    height: 800px;
+    margin-top: 400px;
+    margin-left: 200px;
+}
+.div13 h1{
+    text-align: center;
+    color: aliceblue;
+}
+.div13 p{
+    text-align: center;
+    color: rgba(240, 248, 255, 0.642);
+}
+.div13 img{
+    margin-left: 100px;
+    border-radius: 50px;
+}
+.div13 h2{
+    margin-left: 100px;
+    color: aliceblue;
+}
+.div13 h3{
+    margin-left: 100px;
+    color: aliceblue;
+}
+.div14 img{
+    margin-left: 600px;
+    border-radius: 50px;
+    display: flex; flex-direction: row;
+    margin-top: -630px;
+}
+.div14 h2{
+    margin-left: 600px;
+    color: aliceblue;
+}
+.div14 h3{
+    margin-left: 600px;
+    color: aliceblue;
+}
+.div15 img{
+    margin-left: 290px;
+    border-radius: 50px;
+    display: flex; flex-direction: row;
+    margin-top: -430px;
+}
+.div15 h2{
+    margin-left: 290px;
+    color: aliceblue;
+}
+.div15 h3{
+    margin-left: 290px;
+    color: aliceblue;
+}
+.div16 img{
+    margin-left: 600px;
+    border-radius: 50px;
+    display: flex; flex-direction: row;
+    margin-top: -430px;
+}
+.div16 h2{
+    margin-left: 600px;
+    color: aliceblue;
+}
+.div16 h3{
+    margin-left: 600px;
+    color: aliceblue;
+}
+.div17 img{
+    margin-left: 840px;
+    display: flex; flex-direction: row;
+    margin-top: -680px;
+}
